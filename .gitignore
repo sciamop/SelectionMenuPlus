@@ -1,0 +1,21 @@
+# Build output
+bin/
+bin-next/
+obj/
+dist/
+*.rhp
+*.yak
+*.pdb
+*.exp
+*.lib
+*.obj
+*.pch
+*.ilk
+*.tlog/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+/*.vcxproj.filters
+x64/

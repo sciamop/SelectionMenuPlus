@@ -1,0 +1,23 @@
+name: SelectionMenuPlus
+version: 0.2.1
+authors:
+- Todd Faulls
+description: >
+  Context-aware replacement for Rhino's selection menu (the "choose one object"
+  popup). When a click hits overlapping objects, SelectionMenuPlus ranks the
+  candidates by pick distance, depth, object type, the active command and your
+  past choices, and selects the clear winner without showing the menu. The menu
+  appears only for real ties. While the menu is open, the
+  mouse wheel moves through the rows and a middle-click accepts the highlighted one.
+  Run the SelectionMenuPlus command for options. Windows only, Rhino 8.35 or later.
+license: MIT
+icon: icon.png
+keywords:
+- selection
+- select
+- menu
+- pick
+- picking
+- overlap
+- workflow
+- productivity
